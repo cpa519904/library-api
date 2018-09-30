@@ -1,5 +1,5 @@
 
-[文档首页](https://imageslr.library-online.io/weapp-library) | [后台系统文档](https://imageslr.library-online.io/weapp-library/guide/back.html)
+[文档首页](https://imageslr.github.io/weapp-library) | [后台系统文档](https://imageslr.github.io/weapp-library/guide/back.html)
 
 **文件结构**：
 
