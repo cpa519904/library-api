@@ -4,7 +4,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: `/favicon.ico` }]
   ],
-  base: '/weapp-library',
+  base: '/weapp-library/',
   themeConfig: {
     nav: [
       { text: '文档', link: '/guide/' },
