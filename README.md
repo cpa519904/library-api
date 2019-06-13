@@ -1,7 +1,5 @@
 
-[文档首页](https://imageslr.github.io/weapp-library) | [后台系统文档](https://imageslr.github.io/weapp-library/guide/back.html)
-
-**文件结构**：
+**此项目已过时，无法和小程序配合使用。**
 
 ```
 .
